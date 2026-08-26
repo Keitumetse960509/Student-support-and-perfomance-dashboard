@@ -1,1 +1,16 @@
-
+Student_ID,Age,Gender,Year_Level,Access_Challenge,Support_Received,Attendance_Percentage
+S001,19,Female,First Year,Transport,Yes,85
+S002,22,Male,Second Year,Financial,Yes,72
+S003,20,Female,First Year,Internet,No,68
+S004,21,Male,Third Year,Financial,Yes,78
+S005,19,Female,First Year,Transport,No,70
+S006,23,Male,Third Year,Internet,Yes,88
+S007,20,Female,Second Year,Financial,Yes,82
+S008,24,Male,Fourth Year,Transport,Yes,91
+S009,21,Female,Second Year,Internet,No,65
+S010,22,Male,Third Year,Financial,No,60
+S011,19,Female,First Year,Transport,Yes,84
+S012,23,Female,Fourth Year,Internet,Yes,89
+S013,20,Male,Second Year,Financial,Yes,76
+S014,21,Female,Third Year,Transport,No,69
+S015,24,Male,Fourth Year,Internet,Yes,93
