@@ -14,3 +14,8 @@ S012,23,Female,Fourth Year,Internet,Yes,89
 S013,20,Male,Second Year,Financial,Yes,76
 S014,21,Female,Third Year,Transport,No,69
 S015,24,Male,Fourth Year,Internet,Yes,93
+## Visualisation
+
+The chart below compares average attendance between students who received educational support and those who did not.
+
+![Average Attendance by Educational Support](../reports/attendance_by_support.png)
