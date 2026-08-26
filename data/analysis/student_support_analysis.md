@@ -100,3 +100,8 @@ However, these findings are based on a small fictional dataset and should not be
 The chart below compares average attendance between students who received educational support and those who did not.
 
 ![Average Attendance by Educational Support](../reports/attendance_by_support.png)
+### Attendance by Access Challenge
+
+The chart below compares average attendance across three different access challenges.
+
+![Average Attendance by Access Challenge](../reports/attendance_by_access_challenge.png)
