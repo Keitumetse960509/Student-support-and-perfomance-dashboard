@@ -95,3 +95,8 @@ The difference in attendance between students who received support and those who
 The lower attendance associated with financial difficulties may also suggest that economic circumstances can create barriers to consistent participation in education.
 
 However, these findings are based on a small fictional dataset and should not be generalised to the wider student population.
+## Visualisation
+
+The chart below compares average attendance between students who received educational support and those who did not.
+
+![Average Attendance by Educational Support](../reports/attendance_by_support.png)
